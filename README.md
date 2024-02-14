@@ -25,7 +25,7 @@ PETITCOIN will provide real solutions to real problem, we go from digital to tan
 
 <img align='left' src="https://github.com/PetitCoin/PetitCoin/blob/main/logo-gif.gif" width= "150">
 
-KNOW MORE ABOUT PETITCOIN
+**KNOW MORE ABOUT PETITCOIN**
 
 Here 👇 is our full documents that help you to understand deeply about us and our operation
 
