@@ -25,9 +25,9 @@ PETITCOIN will provide real solutions to real problem, we go from digital to tan
 
 KNOW MORE ABOUT PETITCOIN
 
-Here is our full documents that help you to understand deeply about us and our operation
+Here 👇 is our full documents that help you to understand deeply about us and our operation
 
-[![Download](https://camo.githubusercontent.com/44bc78b71d31e7ab50bc0804d421f66f7fcabd2b98425ecf6b67c251f1ff14e5/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d446f776e6c6f61642d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d646f776e6c6f6164266c6f676f436f6c6f723d7768697465)](https://google.com)
+[![Download](https://camo.githubusercontent.com/44bc78b71d31e7ab50bc0804d421f66f7fcabd2b98425ecf6b67c251f1ff14e5/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d446f776e6c6f61642d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d646f776e6c6f6164266c6f676f436f6c6f723d7768697465)](#)
 
 
 Email us for inquiries at info@petitcoin.io 📬
