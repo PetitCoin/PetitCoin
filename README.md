@@ -23,7 +23,7 @@ PETITCOIN will provide real solutions to real problem, we go from digital to tan
 
 ## WHITEPAPER 📃
 
-<img align='left' src="https://github.com/PetitCoin/PetitCoin/blob/main/logo-gif.gif" widht= "10">
+<img align='left' src="https://github.com/PetitCoin/PetitCoin/blob/main/logo-gif.gif" width= "150">
 
 KNOW MORE ABOUT PETITCOIN
 
